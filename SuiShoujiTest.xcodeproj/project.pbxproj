@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					7CE8F45F1D957F5F006F0FA6 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = ABA34B2Y3Y;
 						ProvisioningStyle = Automatic;
 					};
 					7CE8F4731D957F5F006F0FA6 = {
@@ -412,7 +413,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ABA34B2Y3Y;
 				INFOPLIST_FILE = SuiShoujiTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DejingMa.SuiShoujiTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,7 +427,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ABA34B2Y3Y;
 				INFOPLIST_FILE = SuiShoujiTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DejingMa.SuiShoujiTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
